@@ -4,7 +4,7 @@ System engineer for process automation at an IT service provider (Cologne, Germa
 
 Most processes run more reliably once they are standardized: a clean intake channel, a clear definition, implementation to a standard. Language models and agents handle the rest, and they are reliable only with clear guidelines, schemas and gates. At work, about half of our standard tickets now run fully automated, the rest partly automated.
 
-This profile shows the parts I build in my own time, in three areas.
+This profile shows the parts I build in my own time, in three areas. Blog, notes and the full tool list: [niclasedge.github.io](https://niclasedge.github.io).
 
 #### AI governance: keep data and secrets out of the model
 
@@ -33,6 +33,6 @@ This profile shows the parts I build in my own time, in three areas.
 | [git-planner-go](https://github.com/niclasedge/git-planner-go) | GitHub issues dashboard with epic maps, evidence and MCP ingest (Go) |
 | [iac-stack-template](https://github.com/niclasedge/iac-stack-template) | Template for a small multi-host platform: Ansible deploys, monitoring with GitHub-issue alerts, SOPS secrets |
 
-**Stack:** Python · Go · TypeScript · Rust · PowerShell · Ansible · Docker · Azure / Microsoft 365 · Power Automate · Claude Code / Agent SDK
+**Stack:** Python · Go · TypeScript · Rust · PowerShell · Ansible · Docker · Azure / Microsoft 365 · Power Automate · Hono + htmx · Claude Code / Agent SDK
 
 **Languages:** German (native), English
